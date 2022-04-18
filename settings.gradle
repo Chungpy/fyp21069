@@ -1,0 +1,3 @@
+rootProject.name = "RoboticArm"
+include ':app'
+include ':openCVLibrary3414'

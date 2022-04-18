@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">RoboticArm</string>
+    <string name="baud_rate">Baud Rate:</string>
+    <string name="port">Port:</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="send_start_request">Send Start Request</string>
+    <string name="steppers_fan">Steppers/Fan</string>
+    <string name="steppers">Steppers:</string>
+    <string name="fan">Fan:</string>
+    <string name="gripper">Gripper</string>
+    <string name="home">Home</string>
+    <string name="calibration">Calibration</string>
+    <string name="transition_chessboard">Transition Chessboard</string>
+    <string name="gripper_close">Gripper Close</string>
+    <string name="coarse">Coarse:</string>
+    <string name="movement_granularity">Movement Granularity</string>
+    <string name="fine">Fine:</string>
+    <string name="movements">Movements</string>
+    <string name="plus">+</string>
+    <string name="yPlus">Y+</string>
+    <string name="record_command_sequences">Record Command Sequences</string>
+    <string name="xPlus">X+</string>
+    <string name="minus">-</string>
+    <string name="xMinus">X-</string>
+    <string name="yMinus">Y-</string>
+    <string name="zPlus">Z+</string>
+    <string name="zMinus">Z-</string>
+    <string name="button">Button</string>
+    <string name="positions">Positions</string>
+    <string name="gripper_open">Gripper Open</string>
+    <string name="transition_flipper">Transition Flipper</string>
+    <string name="top_left">Top Left</string>
+
+    <string-array name="steppers">
+        <item>Off</item>
+        <item>On</item>
+    </string-array>
+
+    <string-array name="fan">
+        <item>On</item>
+        <item>Off</item>
+    </string-array>
+</resources>
