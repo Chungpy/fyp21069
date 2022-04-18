@@ -3,12 +3,20 @@ Pick and Place Game with Mobile App using Robotic Arm
 
 
 Installation
+
+
 Install OpenCV Manager on the smartphone
+
 Download the source code from https://github.com/Chungpy/fyp21069
+
 Download OpenCV 3.4.14
+
 Open Android Studio and import the OpenCV library as module
+
 Set the OpenCV library in the dependency list to utilize the functions provided by OpenCV
+
 Then connect the smartphone to the computer and run the app
+
 
 The Arduino code is not prepared in this project. It is previous work by others. The Arduino code can be found at https://github.com/hkucs-makerlab/robotArm  
 
